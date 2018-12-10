@@ -8,8 +8,11 @@ import cv2
 import cPickle as cp
 import scipy.signal as ssig
 import scipy.stats as sstat
+#import os
+#os.environ['PYGAME_FREETYPE'] = '1'
 import pygame, pygame.locals
 from pygame import freetype
+#import pygame.freetype
 #import Image
 from PIL import Image
 import math
